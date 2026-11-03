@@ -1,0 +1,21 @@
+MÉTODO JULIA — INGLÉS V9
+
+NOVEDADES
+- Daniel (en_GB) lee Alicia con audio generado en la Mac.
+- Isabela Enhanced explica en español; Daniel lee los ejemplos ingleses de las explicaciones, cuando están separados en clips.
+- En Aprender, los ejemplos de las etapas 3, 4 y 5 tienen botón propio con Daniel.
+- Pantalla inicial: progreso de Alicia, temas y respuestas por separado.
+- Alicia: ahora se puede desmarcar un párrafo.
+
+INSTALACIÓN
+1. Descomprimir todo el ZIP.
+2. Abrir GENERAR_AUDIOS_MAC.command en la Mac. Requiere Isabela (Enhanced), Daniel y afconvert.
+3. Esperar a que termine: puede tardar varios minutos porque hay muchas frases.
+4. Abrir index.html en Safari.
+5. Si falta algún audio, volver a ejecutar el generador (omite los que ya existen).
+
+LIMITACIONES
+- El seguimiento por palabra de Daniel es ESTIMADO usando duración y longitud de palabras; NO está alineado fonéticamente.
+- Algunos términos ingleses aislados dentro de la explicación española pueden seguir pronunciados por Isabela. Las oraciones de ejemplo y la lectura usan Daniel.
+- El progreso se guarda solo en el navegador de ese dispositivo.
+- No se ha probado en el Safari de la Mac del usuario.
